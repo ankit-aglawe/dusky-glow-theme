@@ -2,14 +2,14 @@
   "name": "dusky-glow-theme",
   "displayName": "Dusky Glow Theme",
   "description": "A dark theme blending dimmed backgrounds with vibrant syntax colors.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "ankit-aglawe",
   "repository": {
     "type": "git",
     "url": "https://github.com/ankit-aglawe/dusky-glow-theme.git"
   },
   "engines": {
-    "vscode": "^1.96.0"
+    "vscode": "^1.0.0"
   },
   "icon": "images/logo128.png",
   "categories": ["Themes"],
