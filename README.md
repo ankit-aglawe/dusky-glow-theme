@@ -1,15 +1,13 @@
+# Dusky Glow Theme
 
 <p align="center">
-  <img src="images/logo1.png" alt="Dusky Glow Theme Logo" />
+  <img src="images/poster.png" alt="Dusky Glow Theme Logo" />
 </p>
-
-# Dusky Glow Theme
 
 **Dusky Glow Theme** brings a blend of GitHub Dark-inspired UI aesthetics with Dracula-inspired syntax highlighting to VS Code. Choose from two distinct flavors—**Dusky Glow Dimmed** and **Dusky Glow Dark**—to suit your preferences.
 
 
 ## Installation
-
 1. Open Visual Studio Code.
 2. Go to the Extensions view by clicking on the Extensions icon in the Activity Bar on the side of the window or use the shortcut `Ctrl+Shift+X` (`Cmd+Shift+X` on macOS).
 3. Search for "Dusky Glow Theme".
@@ -27,7 +25,6 @@ Your VS Code interface will update with the chosen theme, showcasing GitHub Dark
 
 
 ## Contributing
-
 Contributions are welcome! If you'd like to suggest improvements, add new features, or report issues, please open an issue or submit a pull request on the [GitHub repository](https://github.com/yourusername/dusky-glow-theme).
 
 ## License
