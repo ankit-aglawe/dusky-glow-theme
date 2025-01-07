@@ -1,0 +1,31 @@
+{
+  "name": "dusky-glow-theme",
+  "displayName": "Dusky Glow Theme",
+  "description": "A dark theme blending dimmed backgrounds with vibrant syntax colors.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dusky Glow Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dusky-glow-dark-color-theme.json"
+      },
+      {
+        "label": "Dusky Glow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dusky-glow-color-theme.json"
+      },
+      {
+        "label": "Dusky Glow Dimmed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dusky-glow-dimmed-color-theme.json"
+      }
+    ]
+  }
+}
